@@ -11,7 +11,7 @@ video4.7z 下载地址
 	
 	https://download.csdn.net/download/li_haoren/11857083
 	
-
+	or  https://drive.google.com/file/d/1S1Gvpah_gjk913YcKlpJofbCO0z3327V/view?usp=sharing
 先解压video4.7z， 这个是样例管道。
 然后在 main.cpp 里 把file改为这个文件夹目录
 运行就能生成摘要视频
