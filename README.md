@@ -28,17 +28,18 @@ video4里有
 	
 0.png是视频的背景
 
-0.png is the background of the video
-
 tubeframe.txt 是这个视频的管道信息记录了每个管道在原始视频的起始帧和结束帧
-
-tubeframe.txt contain the tube information of this video, record the start frame and end frame of each tube in the original video
 
 outputs 文件夹里是原视频的每一帧帧图，用于生成摘要视频
 
-outputs folder have picture of each frame of the original video，used to generate synopsis video
-
 static_const.cpp里调整各个参数
+
+
+0.png is the background of the video
+
+tubeframe.txt contain the tube information of this video, record the start frame and end frame of each tube in the original video
+
+outputs folder have picture of each frame of the original video，used to generate synopsis video
 
 static_const.cpp used to adjust various parameters
 
