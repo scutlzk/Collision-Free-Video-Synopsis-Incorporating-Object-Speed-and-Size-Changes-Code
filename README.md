@@ -43,7 +43,7 @@ outputs folder have picture of each frame of the original video，used to genera
 
 static_const.cpp used to adjust various parameters
 
-
+-------------------------------------
 if you have any problem in running this code please contact me by l1005152@gmail.com
 
 please visit http://nieyongwei.net for more information
